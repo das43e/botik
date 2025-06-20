@@ -5,3 +5,4 @@ _Это начинающий бот про покемоном.тут вы мож
     и так далее
 
     
+![image](https://github.com/user-attachments/assets/6d5c7aeb-9f44-4ea1-ba45-44ba1b2edf2a)
